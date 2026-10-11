@@ -1,0 +1,61 @@
+bill_id,question_id,question,answer
+IESCO_0004,Q1,How much of my bill is taxes?,"Your taxes total 498 PKR, which makes up 15.24% of your current bill of 3,267 PKR."
+IESCO_0004,Q2,How many months in my history went above 200 units?,"In your 12 months of printed history, 0 months went above 200 units. The current month is not part of the printed history."
+IESCO_0004,Q3,What is the average units consumed per month in my usage history?,The average units consumed per month in your usage history is 118.42 units across the 12 printed months. The current month is not part of the printed history.
+IESCO_0004,Q4,How much extra do I pay if I miss the due date?,"If you miss the due date of 2026-10-08, you will pay an extra 277 PKR (or 7.84%), bringing your total payable after the due date to 3,812 PKR."
+IESCO_0004,Q5,Which charge is the biggest part of my bill and why?,"The energy charge of 6,102 PKR is the largest charge on your bill. It is a gross amount that is reduced by a 3,332 PKR government subsidy to arrive at your net charges of 2,770 PKR."
+IESCO_0004,Q6,Is my consumption this month higher or lower than my usual? By how much?,Your consumption of 158 units this month is 33.42% higher (or 111 units higher) than your previous month's usage of 47 units in 2026-08.
+IESCO_0004,Q7,What is my average cost per unit this month?,"Your average cost per billed unit this month is 20.68 PKR, calculated from your 158 consumed units and current bill amount."
+IESCO_0004,Q8,Explain my bill in simple words.,"Your bill for 2026-09 covers 158 consumed units with gross energy charges of 6,102 PKR, reduced by a 3,332 PKR government subsidy. After adding 498 PKR in taxes, your current bill totals 3,267 PKR with a total payable of 3,535 PKR by the due date."
+IESCO_0004,Q9,Do I have any arrears or credit carried forward?,"Your bill shows 0 PKR in arrears, meaning you do not have any unpaid balance or credit carried forward from previous months."
+IESCO_0004,Q10,What is my sanctioned load and tariff?,Your sanctioned load is 3 kW and your tariff is A-1A(01).
+IESCO_0004,Q11,What is the due date and how many days after the issue date is it?,"The due date is 2026-10-08, which is 12 days after the issue date of 2026-09-26."
+IESCO_0004,Q12,"If my usage rose by 10% next month, roughly how many units would I use?","If your usage rose by 10% next month, you would roughly use 173.8 units based on your current consumption of 158 units."
+KESC_0004,Q1,How much of my bill is taxes?,"Your taxes total 7,472.24 PKR, which is 16.4% of your current bill. This includes 520.85 PKR for electricity duty and 6,951.39 PKR for GST."
+KESC_0004,Q2,How many months in my history went above 200 units?,"There are 8 months above 200 units for all 13 printed months, and 7 months excluding the current month."
+KESC_0004,Q3,What is the average units consumed per month in my usage history?,"The average monthly units consumed is 447.38 units across all 13 printed months, and 409.58 units excluding the current month."
+KESC_0004,Q4,How much extra do I pay if I miss the due date?,"The late-payment amount is 0 PKR, meaning no extra charge applies if you miss the due date."
+KESC_0004,Q5,Which charge is the biggest part of my bill and why?,"The biggest charge is the Variable Off Peak energy charge of 26,257.99 PKR, making up 57.62% of your current bill because it covers the largest share of your electricity consumption (760.44 units at 34.53 PKR per unit)."
+KESC_0004,Q6,Is my consumption this month higher or lower than my usual? By how much?,"Your consumption this month (901 units) is higher than the previous month (599 units) by 302 units, and it is 119.98% higher than your prior average."
+KESC_0004,Q7,What is my average cost per unit this month?,Your average cost per billed unit this month is 50.58 PKR.
+KESC_0004,Q8,Explain my bill in simple words.,"Your bill for June 2026 covers 901 units of electricity consumed between the previous reading of 1,163.29 and current reading of 1,923.73. Total charges are 38,098.01 PKR and taxes are 7,472.24 PKR, bringing your current bill to 45,570.25 PKR. However, because you have an existing credit balance of -91,877.02 PKR (arrears), the credit covers the entire bill and your payable amount is 0 PKR."
+KESC_0004,Q9,Do I have any arrears or credit carried forward?,"You have a credit balance (arrears) of -91,877.02 PKR carried forward, which fully covers your current bill so that you owe nothing."
+KESC_0004,Q10,What is my sanctioned load and tariff?,Your sanctioned load is 10 kW and your tariff is A1-R.
+KESC_0004,Q11,What is the due date and how many days after the issue date is it?,"The due date is 2026-07-13, which is 14 days after the issue date of 2026-06-29."
+KESC_0004,Q12,"If my usage rose by 10% next month, roughly how many units would I use?","If your usage rises by 10% next month, you would use roughly 991.1 units."
+KESC_0008,Q1,How much of my bill is taxes?,"Taxes on your bill total 569.62 PKR, which is 16.61% of your current bill. This includes electricity duty of 29.41 PKR, general sales tax of 520.21 PKR, and municipal tax of 20 PKR."
+KESC_0008,Q2,How many months in my history went above 200 units?,There are 2 months in your usage history that went above 200 units for all 13 printed months (and also 2 months excluding the current month).
+KESC_0008,Q3,What is the average units consumed per month in my usage history?,"The average units consumed per month in your usage history is 156 units for all 13 printed months, and 156.42 units excluding the current month."
+KESC_0008,Q4,How much extra do I pay if I miss the due date?,"If you miss the due date of 2026-04-21, you will pay an extra 286 PKR, bringing your total payable amount after the due date to 3716 PKR."
+KESC_0008,Q5,Which charge is the biggest part of my bill and why?,"The biggest charge line is the variable energy charge for protected units up to 100 units amounting to 1054 PKR, making up 30.73% of your current bill because it represents your primary electricity consumption at the base rate."
+KESC_0008,Q6,Is my consumption this month higher or lower than my usual? By how much?,"Your consumption of 151 units this month is 36 units higher than the previous month's consumption of 115 units. Compared to your prior average, it is 3.47% lower."
+KESC_0008,Q7,What is my average cost per unit this month?,"Your average cost per billed unit this month is 22.72 PKR, calculated by dividing your current bill of 3430.24 PKR by your 151 consumed units."
+KESC_0008,Q8,Explain my bill in simple words.,"Your bill for April 2026 is 3430.24 PKR, consisting of 2860.62 PKR in electricity charges and 569.62 PKR in taxes. You consumed 151 units between 2026-04-03 and the due date of 2026-04-21."
+KESC_0008,Q9,Do I have any arrears or credit carried forward?,You have a credit balance (arrears) of -0.53 PKR carried forward on your account.
+KESC_0008,Q10,What is my sanctioned load and tariff?,Your sanctioned load is 3 kW and your tariff is A1-R.
+KESC_0008,Q11,What is the due date and how many days after the issue date is it?,"The due date is 2026-04-21, which is 14 days after the issue date of 2026-04-07."
+KESC_0008,Q12,"If my usage rose by 10% next month, roughly how many units would I use?","If your usage rose by 10% next month, you would use roughly 166.1 units."
+LESCO_0005,Q1,How much of my bill is taxes?,"Taxes account for 3,358.23 PKR, which is 16.2% of your current bill."
+LESCO_0005,Q2,How many months in my history went above 200 units?,"In your usage history, 3 months went above 200 units. This count is the same for all printed months and when excluding the current month, as the current month is not part of the printed history."
+LESCO_0005,Q3,What is the average units consumed per month in my usage history?,"The average units consumed per month in your usage history is -307.58 units, which includes negative values from net metering. Excluding the current month, the average remains -307.58 units."
+LESCO_0005,Q4,How much extra do I pay if I miss the due date?,The bill does not show a late payment amount and states that the amount payable after the due date is null.
+LESCO_0005,Q5,Which charge is the biggest part of my bill and why?,"The energy charge is the biggest part of your bill at 17,367.77 PKR, representing 83.8% of your current bill."
+LESCO_0005,Q6,Is my consumption this month higher or lower than my usual? By how much?,"Your consumption of 1,017 units this month is higher than your previous month's consumption of -152 units by 1,169 units."
+LESCO_0005,Q7,What is my average cost per unit this month?,Your average cost per unit this month is 20.38 PKR.
+LESCO_0005,Q8,Explain my bill in simple words.,"Your bill for July 2026 shows a total of 20,726 PKR, consisting of 17,367.77 PKR in energy charges and 3,358.23 PKR in taxes. Because you have a credit balance of 75,496 PKR from previous months, your current payable amount is a credit of 54,770 PKR."
+LESCO_0005,Q9,Do I have any arrears or credit carried forward?,"You have a credit balance of 75,496 PKR carried forward, which covers your current bill and results in a net credit of 54,770 PKR."
+LESCO_0005,Q10,What is my sanctioned load and tariff?,Your sanctioned load is 10 kW and your tariff is A-1b(03)T.
+LESCO_0005,Q11,What is the due date and how many days after the issue date is it?,"The due date is 2026-07-30, which is 10 days after the issue date of 2026-07-20."
+LESCO_0005,Q12,"If my usage rose by 10% next month, roughly how many units would I use?","If your usage rose by 10%, you would use approximately 1,118.7 units."
+LESCO_0006,Q1,How much of my bill is taxes?,"The bill shows a total of 1,723.51 PKR for taxes, which accounts for 31.33% of your current bill of 5,501 PKR."
+LESCO_0006,Q2,How many months in my history went above 200 units?,"In your 12-month usage history, 9 months went above 200 units. The current month is not part of the printed history."
+LESCO_0006,Q3,What is the average units consumed per month in my usage history?,The average units consumed per month in your 12-month usage history is 275.25 units. The current month is not part of the printed history.
+LESCO_0006,Q4,How much extra do I pay if I miss the due date?,"If you miss the due date, you will pay an extra 351 PKR, which is a 0.78% increase on the payable amount."
+LESCO_0006,Q5,Which charge is the biggest part of my bill and why?,"The energy charge of 3,777.49 PKR is the biggest part of your bill, making up 68.67% of the current bill because it is the only charge listed under your charges."
+LESCO_0006,Q6,Is my consumption this month higher or lower than my usual? By how much?,"Your consumption this month (65 units) is lower than your previous month (225 units in 2026-07) by 160 units, and it is 76.39% lower than your prior monthly average."
+LESCO_0006,Q7,What is my average cost per unit this month?,"Your average cost per billed unit this month is 84.63 PKR, calculated by dividing your current bill by your consumed units."
+LESCO_0006,Q8,Explain my bill in simple words.,"Your current bill for August 2026 is 5,501 PKR, which consists of 3,777.49 PKR in energy charges and 1,723.51 PKR in taxes for 65 units consumed. With your previous arrears of 39,411 PKR included, your total payable amount by the due date of 2026-09-09 is 44,912 PKR."
+LESCO_0006,Q9,Do I have any arrears or credit carried forward?,"You have arrears of 39,411 PKR carried forward from previous bills, and the bill does not show any credit."
+LESCO_0006,Q10,What is my sanctioned load and tariff?,Your sanctioned load is 1 kW and your tariff is A-2a(04).
+LESCO_0006,Q11,What is the due date and how many days after the issue date is it?,"The due date is 2026-09-09, which is 11 days after the issue date of 2026-08-29."
+LESCO_0006,Q12,"If my usage rose by 10% next month, roughly how many units would I use?","If your usage rose by 10% next month, you would use roughly 71.5 units based on your current consumption of 65 units."
